@@ -63,7 +63,7 @@
 ### 📫 联系我
 
 - 📧 Email: *[qiezhaizimu@163.com]*
-- 🌐 Blog: *[技术博客链接]*
+- 🌐 Blog: *[https://float-life-of-dream.github.io/Blog/]*
 
 ### 🏆 SRE 信条
 
